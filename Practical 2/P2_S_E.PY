@@ -1,3 +1,4 @@
+#Vrushabh Amrutiya 20CS004
 lst=['red','red','red','red','yellow','blue','black','white']
 tpl=(2,2,3,3,3,4,5,6)
 dct = {'a':100, 'b':100, 'c':200, 'd':250}
