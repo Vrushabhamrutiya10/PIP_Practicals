@@ -1,0 +1,6 @@
+x = int(input())
+V = (int(x) for x in input().split())
+V = list(set(list(V)))
+V = sorted(V)
+len = len(V)
+print(V[len-2])
